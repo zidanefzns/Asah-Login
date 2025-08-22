@@ -4,7 +4,7 @@
 Alur Fitur Login:
 - Klik Bar
 - Memasukkan email dan password
-- Tekan Enter
+- Klik Ok
 - Memvalidasi masukan.
 - Menampilkan halaman home.
 
