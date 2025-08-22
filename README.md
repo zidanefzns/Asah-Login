@@ -5,3 +5,6 @@ Alur Fitur Login:
 - Memasukkan email dan password
 - Memvalidasi masukan.
 - Menampilkan halaman home.
+
+**Non Fungsional :**
+- aplikasi berjalan lancar 
