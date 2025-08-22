@@ -3,6 +3,7 @@
 
 Alur Fitur Login:
 - Memasukkan email dan password
+- Klik Ok
 - Memvalidasi masukan.
 - Menampilkan halaman home.
 
